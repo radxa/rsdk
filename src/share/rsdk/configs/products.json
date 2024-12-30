@@ -176,6 +176,14 @@
         "supported_edition": ["xfce"]
     },
     {
+        "product": "radxa-cm3j-rpi-cm4-io",
+        "product_name": "Radxa CM3J RPI CM4 IO",
+        "product_full_name": "Radxa CM3J with Raspberry Pi Compute Module 4 IO Board",
+        "soc": "rk3568",
+        "supported_suite": ["bullseye"],
+        "supported_edition": ["xfce"]
+    },
+    {
         "product": "rock-3a",
         "product_name": "ROCK 3A",
         "product_full_name": "ROCK 3A",
